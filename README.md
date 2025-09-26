@@ -57,7 +57,7 @@ Here’s how I approached preparing the dataset for analysis:
 
 ## 3. Ride Demand and Booking Patterns
 
-![Power BI Dashboard](Screenshot%202025-09-27%20003622.png)
+![Power BI Dashboard](UBER%20BI%20Dashboard%20%281%29_pages-to-jpg-0002.jpg)
 
 **Findings:**
 - Total annual bookings: 150,000.
@@ -74,7 +74,7 @@ Here’s how I approached preparing the dataset for analysis:
 - Promote underutilized vehicle types in low-demand areas using discounted fares or vouchers.
 
 ---
-
+![Power BI Dashboard](UBER%20BI%20Dashboard%20%281%29_pages-to-jpg-0003.jpg)
 ## 4. Ride Completion, Cancellations, and Drop-offs
 
 **Findings:**
@@ -94,7 +94,7 @@ Here’s how I approached preparing the dataset for analysis:
 - Educate drivers/customers about accurate addresses and minimizing frivolous cancellations.
 
 ---
-
+![Power BI Dashboard](UBER%20BI%20Dashboard%20%281%29_pages-to-jpg-0004.jpg)
 ## 5. Operational Efficiency Metrics
 
 **Findings:**
@@ -112,7 +112,7 @@ Here’s how I approached preparing the dataset for analysis:
 - Incentivize completion of longer, higher-value trips.
 
 ---
-
+![Power BI Dashboard](UBER%20BI%20Dashboard%20%281%29_pages-to-jpg-0005.jpg)
 ## 6. Customer Behavior and Revenue
 
 **Findings:**
@@ -130,7 +130,7 @@ Here’s how I approached preparing the dataset for analysis:
 - Target communication/promotions to high-repeat customers for retention.
 
 ---
-
+![Power BI Dashboard](UBER%20BI%20Dashboard%20%281%29_pages-to-jpg-0006.jpg)
 ## 7. Summary
 
 Throughout this workflow, I focused on:
