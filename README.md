@@ -57,6 +57,8 @@ Here’s how I approached preparing the dataset for analysis:
 
 ## 3. Ride Demand and Booking Patterns
 
+![Power BI Dashboard](Screenshot_2025-09-27_003622.png)
+
 **Findings:**
 - Total annual bookings: 150,000.
 - Monthly demand stable at ~13,000 rides/month; minor fluctuations.
